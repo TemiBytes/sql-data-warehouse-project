@@ -25,15 +25,15 @@ This project involves:
 
 ---
 
-##🛠️ Important Links & Tools:
+## 🛠️ Important Links & Tools:
 
-[SQL Server Express:]([url](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)) A Lightweight server for hosting your SQL database.
-[SQL Server Management Studio (SSMS):]([url](https://learn.microsoft.com/en-us/ssms/install/install)) GUI for managing and interacting with databases.
-[Git Repository:]([url](https://github.com/)) Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
-[DrawIO:]([url](https://www.drawio.com/)) Design data architecture, models, flows, and diagrams.
-[Notion:]([url](https://www.notion.com/)) To create a project Template
+- [SQL Server Express:]([url](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)) A Lightweight server for hosting your SQL database.
+- [SQL Server Management Studio (SSMS):]([url](https://learn.microsoft.com/en-us/ssms/install/install)) GUI for managing and interacting with databases.
+- [Git Repository:]([url](https://github.com/)) Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+- [DrawIO:]([url](https://www.drawio.com/)) Design data architecture, models, flows, and diagrams.
+- [Notion:]([url](https://www.notion.com/)) To create a project Template
 
---
+---
 
 ## 🚀 Project Requirements
 
