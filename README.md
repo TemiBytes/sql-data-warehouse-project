@@ -99,4 +99,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 - Project Credits @Baraa Khatib Salkini
 
 ## 🌟 About Me
-Hi there! I'm Temidayo Akinsemoyin. I am a data analyst transitioning into data engineering. I enjoy understanding and playing with data because let's be honest, what is life without data!! 😁
+Hi there! I'm Temidayo Akinsemoyin. I am a data analyst transitioning into data engineering. I enjoy understanding and playing with data because let's be honest, what is life without data!! 😁.  You can connect with me on [LinkedIn](linkedin.com/in/temi-akins/) 
