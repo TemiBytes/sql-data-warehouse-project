@@ -27,8 +27,6 @@ This project involves:
 
 ## 🛠️ Important Links & Tools:
 
-## 🛠️ Important Links & Tools:
-
 - [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) — A lightweight server for hosting your SQL database.  
 - [SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/ssms/install/install) — GUI for managing and interacting with databases.  
 - [Git Repository](https://github.com/) — Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.  
@@ -43,7 +41,7 @@ This project involves:
 ### Building the Data Warehouse (Data Engineering)
 
 
-### Objective
+### 📌 Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 ### Specifications
@@ -55,7 +53,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+### 📈 BI: Analytics & Reporting (Data Analysis)
 
 ### Objective
 Develop SQL-based analytics to deliver detailed insights into:
