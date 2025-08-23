@@ -96,7 +96,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## 🛡️ License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution
-- Credits @ Baraa Khatib Salkini
+- Project Credits @Baraa Khatib Salkini
 
 ## 🌟 About Me
 Hi there! I'm Temidayo Akinsemoyin. I am a data analyst transitioning into data engineering. I enjoy understanding and playing with data because let's be honest, what is life without data!! 😁
