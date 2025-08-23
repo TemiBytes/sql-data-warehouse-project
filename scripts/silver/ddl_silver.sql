@@ -7,7 +7,6 @@ Script Purpose:
   This script creates tables in the 'silver' schema, dropping existing tables
   if they already exist.
   Run this script to redefine the DDL Structure of 'silver' Tables 
-========================================================
 */
 
 IF OBJECT_ID('silver.crm_cust_info', 'U') IS NOT NULL
@@ -51,9 +50,9 @@ CREATE TABLE silver.crm_sales_details (
 	sls_ord_num NVARCHAR(50),
 	sls_prd_key NVARCHAR(50),
 	sls_cust_id INT,
-	sls_order_dt INT,
-	sls_ship_dt INT,
-	sls_due_dt INT,
+	sls_order_dt DATE,
+	sls_ship_dt DATE,
+	sls_due_dt DATE,
 	sls_sales INT,
 	sls_quantity INT,
 	sls_price INT,
