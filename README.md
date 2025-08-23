@@ -13,9 +13,27 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 - Silver Layer: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
 - Gold Layer: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
+---
 
+## 📖 Project Overview
+This project involves:
+
+- Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
+- ETL Pipelines: Extracting, transforming, and loading data from source systems into the warehouse.
+- Data Modeling: Developing fact and dimension tables optimized for analytical queries.
+- Analytics & Reporting: Creating SQL-based reports and dashboards for actionable insights.
 
 ---
+
+##🛠️ Important Links & Tools:
+
+[SQL Server Express:]([url](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)) A Lightweight server for hosting your SQL database.
+[SQL Server Management Studio (SSMS):]([url](https://learn.microsoft.com/en-us/ssms/install/install)) GUI for managing and interacting with databases.
+[Git Repository:]([url](https://github.com/)) Set up a GitHub account and repository to manage, version, and collaborate on your code efficiently.
+[DrawIO:]([url](https://www.drawio.com/)) Design data architecture, models, flows, and diagrams.
+[Notion:]([url](https://www.notion.com/)) To create a project Template
+
+--
 
 ## 🚀 Project Requirements
 
